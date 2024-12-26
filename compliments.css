@@ -1,0 +1,123 @@
+body {
+  text-align: center;
+  place-items: center;
+}
+
+.row1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto; /* Center alignment */
+  padding: 0;
+}
+
+.column {
+  flex: 1; /* Makes the boxes adjust evenly across the row */
+  margin: 0 10px; /* Optional: spacing between columns */
+  text-align: center;
+}
+
+.compliments {
+  background-color: #9B4444;
+}
+
+.subheading {
+  text-align: justify;
+  color: white; 
+  font-family: Instrument Serif; 
+  font-size: 20px;
+  padding-top: 0;
+  margin-top: 0;
+  margin-left: 325px;
+  margin-right: 325px;
+  word-spacing: 6px;
+}
+
+.front {
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+  font-size: 40px;
+}
+
+.words {
+  font-size: 30px; 
+  text-align: center; 
+  color: white; 
+  padding-top: 30px; 
+}
+
+.header {
+  color: white;
+  text-align: center; 
+  line-height: 10px; 
+  margin-bottom: 50px;
+}
+
+.header p{
+  font-weight: 400;
+  color: white; 
+}
+
+.container {
+  width: 450px; 
+  height: 450px;
+  display: grid;
+  place-items: center;
+  padding-top: -50px;
+  margin-top: -50px;
+  padding-bottom: -50px;
+  margin-bottom: -50px;
+}
+
+.main_content {
+  width: 100%;
+  height: 250px; 
+  padding: 50px 40px; 
+  background-color: #F3EDC8; 
+  border-radius: 15px;
+  box-shadow: 0 25px 31px rgba(0, 0, 0, 0,5);
+}
+
+.text_area {
+  text-align: center;
+  font-size: 25px;
+  color: black; 
+  line-height: 1.2; 
+}
+
+.main_content {
+  font-family: Instrument Serif;
+  color: black; 
+  text-align: center;
+  margin-top: 15px;
+  font-size: 20px;
+  display: grid;
+  place-items: center;
+}
+
+
+.main_content .button_area {
+  display: grid;
+  place-items: center;
+  margin-top: 20px; 
+  padding: 10px 0; 
+}
+
+.button_area .btn button{
+  background-color: #9B4444;
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  line-height: 12px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 12px 15px; 
+  display: grid;
+  place-items: center;
+}
+
+.button_area .btn button:hover{
+  background-color: black;
+}

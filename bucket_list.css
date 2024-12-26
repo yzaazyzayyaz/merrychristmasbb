@@ -1,0 +1,49 @@
+.bucket-list-body {
+  background-color: #9B4444;
+}
+
+.b-heading {
+  font-family: Instrument Serif;
+  font-style: italic; 
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.section-header {
+  font-family: Instrument Serif; 
+  text-align: center; 
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.exp {
+  margin-left: 30px; 
+  margin-right: 30px;
+  line-height: 23px;
+  text-indent: 50px; 
+}
+
+.b1 {
+  margin-top: 35px;
+  font-size: 17px; 
+  margin-left: 325px;
+  margin-right: 325px;
+  margin-bottom: 30px;
+  line-height: 30px;
+  word-spacing: 5px;
+  text-align: justify;
+  background-color: #F3EDC8;
+  border-radius: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: -30px;
+}
+
+.last {
+  font-size: 20px; 
+  text-align: center;
+  color: white; 
+  padding-bottom: 30px; 
+}
