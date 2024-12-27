@@ -46,6 +46,10 @@ const memories =[{
   memory: 'i love all ur cute messages (and ur selfies HEHE) super sm they rlly do brighten up my day !!!!'
 }, {
   memory: 'i love u my qt little nigersaurus'
+}, {
+  memory: 'i love it when u kiss me somewhere else (?!?!?!?!)'
+}, {
+  memory: 'i know u love it when u smell my armpit !!!!!!!! it is not wrong idk wht ure on'
 }]
 
 let btn = document.querySelector("#Qbtn");
